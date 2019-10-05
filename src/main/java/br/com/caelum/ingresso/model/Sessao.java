@@ -30,7 +30,7 @@ public class Sessao {
 	public void setHorario(LocalTime horario) {
 		this.horario = horario;
 	}
-
+	
 	public Sala getSala() {
 		return sala;
 	}
@@ -39,13 +39,13 @@ public class Sessao {
 		this.sala = sala;
 	}
 
+	public void setFilme(Filme filme) {
+		this.filme = filme;
+	}
+
 	public Filme getFilme() {
 		return filme;
 	}
 
-	public void setFilme(Filme filme) {
-		this.filme = filme;
-	}
-	
 
 }
