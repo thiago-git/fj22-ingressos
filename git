@@ -1,0 +1,64 @@
+[33m42b755a b173970[m[33m ([m[1;36mHEAD -> [m[1;32mwork[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmaster[m[33m)[m adicionando descrição sobre um contribuinte novo ao projeto
+[33mb173970 cf94138 be7e549[m Merge pull request #19 from caelum/fazendoMelhorias
+[33mbe7e549 77c9a41[m[33m ([m[1;31morigin/fazendoMelhorias[m[33m)[m Adicionando campo de vencimento
+[33m77c9a41 6e8f1d7[m Mostrando fileira e posição do lugar
+[33m6e8f1d7 8934916[m Pegando preço pelo salaForm
+[33m8934916 fee288b[m Adicionando configurações pro Hibernate
+[33mfee288b cf94138[m Pegando valor do salaId pela sala no form de sessão
+[33mcf94138 44792b4[m Tirando id não usados dos forms
+[33m44792b4 d6b0309 ef716e3[m Merge pull request #18 from caelum/corrigindoBugsApostila
+[33mef716e3 1b69224[m Arrumando url do link pros lugares da sala
+[33m1b69224 fb5ace9[m Refatorando lógica de alterar e salvar sala
+[33mfb5ace9 d6b0309[m Mantendo lugares na sala ao alterar uma sala
+[33md6b0309 941d9e5[m Deixando lugares dentro da sala únicos
+[33m941d9e5 de07cab[m passando o useSSL=false
+[33mde07cab 449511a 6c1a69f[m Merge pull request #16 from lucas-felix/master
+[33m6c1a69f 449511a[m atualizando senha do mysql e adicionando o jax-b
+[33m449511a d9a6591 2c3981a[m Merge pull request #14 from caelum/jackson
+[33m2c3981a d9a6591[m[33m ([m[1;31morigin/jackson[m[33m)[m Retira o Jackson do pom para que o aluno o adicione na hora certa
+[33md9a6591 755e18c[m removendo método que quebra a tela por não existir
+[33m755e18c 69bdbb5[m Arrumando tela form do filme
+[33m69bdbb5 184b946[m Arrumando alguns errinhos em algumas telas
+[33m184b946 1ce843c[m Trocando persist por merge
+[33m1ce843c f96708d[m Retirando dependencias do pom.xml
+[33mf96708d cd4ce41[m Adicionando senha do mysql ao spring-context.xml
+[33mcd4ce41 44be547[m Delete unnecessary .gitkeep
+[33m44be547 24da41a[m Create folder java for maven structure
+[33m24da41a 804c141[m Retirando /admin do mapeamento de lugares na sessão
+[33m804c141 61e0966[m Retirando /admin do mapeamento de detalhes do filme
+[33m61e0966 2725231[m Arrumando tag de preco em views/filme/lista.jsp
+[33m2725231 2bb0f09[m Corrigindo sessao.jsp para exibir erros de validação
+[33m2bb0f09 ae5defa[m Adicionando construtor com parametros para os primeiros testes
+[33mae5defa a3ce05a[m Comentarios jsp para atributos de preco
+[33ma3ce05a 9462820[m Update lugares.jsp
+[33m9462820 0951622[m Update lugares.jsp
+[33m0951622 6c102e3[m Update detalhe.jsp
+[33m6c102e3 da0df56[m Update template.tag
+[33mda0df56 9e7c2cb[m Update detalhe.jsp
+[33m9e7c2cb 999751b[m Update em-cartaz.jsp
+[33m999751b 5eb4290[m Create em-cartaz.jsp
+[33m5eb4290 032d115[m Update lista.jsp
+[33m032d115 253cff8[m Update lista.jsp
+[33m253cff8 78dbd90[m corrigindo controller da sala
+[33m78dbd90 f98ab44[m correcao das url
+[33mf98ab44 f6b0736[m correcao das paginas da sessao para o Spring Security
+[33mf6b0736 6ada5de[m correcao do template.tag para Spring Security
+[33m6ada5de 36227d4[m refatoracao da sala para Spring Security
+[33m36227d4 738fab5[m refatoracao do Lugar para Spring Security
+[33m738fab5 32ec1be[m editando a parte de filme para facilitar a inclusão de spring security
+[33m32ec1be 5bc3908 87fcdfc[m Merge pull request #8 from MathBrandino/patch-5
+[33m87fcdfc 5bc3908[m Deixando tudo estatico
+[33m5bc3908 0326efc 5b70050[m Merge pull request #7 from MathBrandino/patch-4
+[33m5b70050 0326efc[m Pronto para remover comentario sessao lista
+[33m0326efc 72f25da 211d7b0[m Merge pull request #6 from MathBrandino/patch-3
+[33m72f25da b718003 8ed6250[m Merge pull request #5 from MathBrandino/patch-2
+[33m211d7b0 b718003[m Deixando campos já prontos para tirar comentario
+[33m8ed6250 b718003[m Com campo já na tela para tirar comentario
+[33mb718003 288b66c ab546dd[m Merge pull request #4 from MathBrandino/patch-1
+[33mab546dd 288b66c[m Criando arquivo para criar pasta
+[33m288b66c 1a6470a[m Adicionando Construtor sem args na classe Filme
+[33m1a6470a 365f27a[m Removendo spring-context.xsd do schamaLocation
+[33m365f27a e63b952[m Removendo SessaoDao do setup
+[33me63b952 db92cb3[m Removendo SessaoDao do Setup
+[33mdb92cb3 12dfaad[m Adicionando dependencia para JSP-API
+[33m12dfaad[m Setup Project
